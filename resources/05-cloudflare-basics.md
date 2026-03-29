@@ -84,7 +84,8 @@ Before connecting to Cloudflare, make sure your Astro project is ready:
 3. Click **Create** → **Pages** tab
 4. Connect your GitHub account
 5. Select your portfolio repo
-6. Configure the build settings for Astro:
+6. Under **Framework preset**, select **Astro** from the dropdown
+7. Confirm the build settings for Astro:
 
 | Setting | Value |
 |---------|-------|
@@ -92,8 +93,8 @@ Before connecting to Cloudflare, make sure your Astro project is ready:
 | **Build command** | `npm run build` |
 | **Build output directory** | `dist` |
 
-7. Click **Save and Deploy**
-8. Wait a minute or two — your site is live at `your-project.pages.dev`
+8. Click **Save and Deploy**
+9. Wait a minute or two — your site is live at `your-project.pages.dev`
 
 ### After Deploy
 
