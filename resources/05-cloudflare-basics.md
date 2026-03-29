@@ -69,14 +69,35 @@ Every time you push new code to GitHub, Cloudflare automatically rebuilds and re
 
 We'll walk through this together in the workshop, but here's the overview:
 
+### Prerequisites
+
+Before connecting to Cloudflare, make sure your Astro project is ready:
+
+1. Your Astro project is in a GitHub repo
+2. You can run `npm run build` locally without errors
+3. The build output goes to the `dist/` folder (Astro's default)
+
+### Cloudflare Pages Setup
+
 1. Create a free account at [cloudflare.com](https://www.cloudflare.com/)
 2. Go to **Workers & Pages** in the dashboard
 3. Click **Create** → **Pages** tab
 4. Connect your GitHub account
 5. Select your portfolio repo
-6. Set the build command (depends on your framework)
+6. Configure the build settings for Astro:
+
+| Setting | Value |
+|---------|-------|
+| **Production branch** | `main` |
+| **Build command** | `npm run build` |
+| **Build output directory** | `dist` |
+
 7. Click **Save and Deploy**
-8. Wait a minute or two — your site is live
+8. Wait a minute or two — your site is live at `your-project.pages.dev`
+
+### After Deploy
+
+Every time you `git push` to `main`, Cloudflare automatically rebuilds and redeploys your site. No extra steps needed.
 
 ---
 
