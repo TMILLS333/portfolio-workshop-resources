@@ -24,6 +24,10 @@ For our purposes, we care about one specific Cloudflare product: **Cloudflare Pa
 
 ## Recommended Resources
 
+### Start Here — Our Exact Workflow
+
+- [Astro + Cloudflare Pages: A Beginner's Guide](https://dev.to/warish/astro-cloudflare-pages-a-beginners-guide-to-fast-and-easy-deployment-558e) — This is the guide that matches our portfolio project setup. It walks through connecting your GitHub repo to Cloudflare Pages and deploying an Astro site step by step.
+
 ### Video (Pick One)
 
 | Video | Length | Why It's Good |
@@ -32,11 +36,10 @@ For our purposes, we care about one specific Cloudflare product: **Cloudflare Pa
 | [Deploy Your Website for Free — Cloudflare Pages](https://www.youtube.com/watch?v=k7fUkTQvCzk) | ~10 min | Concise demo with GitHub integration |
 | [Cloudflare Pages: Build a Static Website in Minutes](https://www.youtube.com/watch?v=mzNpuj4T66Q) | ~8 min | Quick and practical, shows direct upload and custom domain setup |
 
-### Article
+### Additional Reading
 
 - [So What Is Cloudflare?](https://www.cloudflare.com/learning/what-is-cloudflare/) — Cloudflare's own plain-language explainer
 - [Getting Started — Cloudflare Pages Docs](https://developers.cloudflare.com/pages/get-started/) — Official step-by-step setup guide
-- [Astro + Cloudflare Pages: A Beginner's Guide](https://dev.to/warish/astro-cloudflare-pages-a-beginners-guide-to-fast-and-easy-deployment-558e) — Relevant if we use Astro for the portfolio project
 
 ---
 
