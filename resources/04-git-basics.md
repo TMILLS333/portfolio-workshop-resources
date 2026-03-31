@@ -22,10 +22,8 @@
 | [Git & GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY) by Traversy Media | ~50 min | Covers Git + GitHub together including branching, pull requests, and SSH keys |
 | [Git Commit, Push & Pull Explained](https://www.youtube.com/watch?v=OwW9NskN0fI) | 4 min | Ultra-quick visual explanation of the three most common operations |
 | [GitHub Tutorial for Beginners (2025)](https://www.youtube.com/watch?v=v5gnvDUWqFM) | ~20 min | Uses GitHub Desktop (visual app) — great if you'd rather not use the terminal |
-
-### Article
-
-- [Git and GitHub Learning Resources — GitHub Docs](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources) — GitHub's own curated list of learning paths, including interactive courses
+| [Git Branches](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=4) | — | Clear explanation of how branches work |
+| [Git Remotes](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=2) | — | Explains how local and remote repos connect |
 
 ---
 
@@ -36,14 +34,6 @@ When you're working with Claude Code (or any developer), you'll hear these terms
 ### Repository (Repo)
 
 A **project folder** that Git is tracking. When Claude says "repo," it just means your project.
-
-### Clone
-
-**Download a copy** of a project from GitHub to your computer.
-
-```bash
-git clone https://github.com/username/my-portfolio.git
-```
 
 ### Staging / Add
 
