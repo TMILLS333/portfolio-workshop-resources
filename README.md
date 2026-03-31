@@ -11,13 +11,12 @@ A curated collection of beginner-friendly resources to help designers get comfor
 | # | Topic | What You'll Learn |
 |---|-------|-------------------|
 | 1 | [Terminal Basics](resources/01-terminal-basics.md) | What the terminal is, common commands, and how to navigate your computer without clicking |
-| 2 | [What is VS Code?](resources/02-what-is-vs-code.md) | Why we use VS Code, how to install it, and what makes it different from other text editors |
-| 3 | [VS Code Basics](resources/03-vs-code-basics.md) | Opening projects, creating files, using the integrated terminal, and essential shortcuts |
-| 4 | [Git Basics](resources/04-git-basics.md) | What Git is, and what terms like commit, push, pull, merge, and branch actually mean |
-| 5 | [Cloudflare Basics](resources/05-cloudflare-basics.md) | What Cloudflare is, why we use Cloudflare Pages, and how deploying a site works |
-| 6 | [Markdown Basics](resources/06-markdown-basics.md) | How to read and write `.md` files — the format used for README files, documentation, and Claude skills |
-| 7 | [Claude Skills & MD Files](resources/07-claude-skills.md) | What Claude skills are, how SKILL.md files work, and how to create your own |
-| 8 | [MCP Know-How](resources/08-mcp-basics.md) | What the Model Context Protocol is and why it matters for connecting AI to your tools |
+| 2 | [VS Code Basics](resources/03-vs-code-basics.md) | Opening projects, creating files, using the integrated terminal, and essential shortcuts |
+| 3 | [Git Basics](resources/04-git-basics.md) | What Git is, and what terms like commit, push, pull, merge, and branch actually mean |
+| 4 | [Cloudflare Basics](resources/05-cloudflare-basics.md) | What Cloudflare is, why we use Cloudflare Pages, and how deploying a site works |
+| 5 | [Markdown Basics](resources/06-markdown-basics.md) | How to read and write `.md` files — the format used for README files, documentation, and Claude skills |
+| 6 | [Claude Skills & MD Files](resources/07-claude-skills.md) | What Claude skills are, how SKILL.md files work, and how to create your own |
+| 7 | [MCP Know-How](resources/08-mcp-basics.md) | What the Model Context Protocol is and why it matters for connecting AI to your tools |
 
 ---
 
