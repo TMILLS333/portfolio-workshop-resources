@@ -10,13 +10,11 @@ The terminal (also called the command line or CLI) is a text-based way to talk t
 
 ## Recommended Resources
 
-### Video (Pick One)
+### Video
 
 | Video | Length | Why It's Good |
 |-------|--------|---------------|
-| [Terminal Basics That Nobody Teaches You In School](https://www.youtube.com/watch?v=zhzhTvaFOiw) | 9 min | Quick and clear — explains the difference between CLI, shell, terminal, and prompt |
 | [How to Use the Command Line — Terminal Basics for Beginners](https://www.youtube.com/watch?v=5XgBd6rjuDQ) by Jesse Showalter | 14 min | Made by a designer, covers the essentials for a design & development workflow |
-| [Command Line Crash Course for Beginners](https://www.youtube.com/watch?v=uwAqEzhyjtw) by Traversy Media | 45 min | More thorough walkthrough if you want a deeper understanding |
 
 ### Article
 
