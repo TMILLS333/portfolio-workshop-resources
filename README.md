@@ -25,16 +25,4 @@ A curated collection of beginner-friendly resources to help designers get comfor
 
 ---
 
-## Example Repos Like This One
-
-Curious what a GitHub repo used as a learning resource hub looks like? Here are some great examples:
-
-- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) — Curated list of design and UI resources
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) — The original "awesome list" format
-- [best-practice-and-impact/git-workshop](https://github.com/best-practice-and-impact/git-workshop) — A workshop repo template with exercises
-- [kera-cudmore/readme-examples](https://github.com/kera-cudmore/readme-examples) — Introduction to writing READMEs
-- [evanwill/workshop-template](https://github.com/evanwill/workshop-template) — Jekyll template for simple workshop websites
-
----
-
 *Built for the IXDF Design Community portfolio project workshop.*
