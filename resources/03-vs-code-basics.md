@@ -36,7 +36,7 @@ When you open VS Code, here's what you'll see:
 
 | Video | Length | Why It's Good |
 |-------|--------|---------------|
-| [VS Code in 100 Seconds](https://www.youtube.com/watch?v=pdRpuy8F7Kw) | ~2 min | Lightning-fast overview of what VS Code is and why developers love it |
+| [How To Install Claude Code In VS Code](https://www.youtube.com/watch?v=pdRpuy8F7Kw) | ~4 min | Walks through installing Claude Code in Visual Studio Code |
 
 ---
 
