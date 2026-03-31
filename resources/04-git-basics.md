@@ -14,16 +14,12 @@
 
 ## Recommended Resources
 
-### Video (Pick One)
+### Video
 
 | Video | Length | Why It's Good |
 |-------|--------|---------------|
-| [Git Tutorial for Absolute Beginners](https://www.youtube.com/watch?v=CvUiKWv2-C0) | ~37 min | Best for true beginners — walks through everything step by step in VS Code |
-| [Git & GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY) by Traversy Media | ~50 min | Covers Git + GitHub together including branching, pull requests, and SSH keys |
-| [Git Commit, Push & Pull Explained](https://www.youtube.com/watch?v=OwW9NskN0fI) | 4 min | Ultra-quick visual explanation of the three most common operations |
-| [GitHub Tutorial for Beginners (2025)](https://www.youtube.com/watch?v=v5gnvDUWqFM) | ~20 min | Uses GitHub Desktop (visual app) — great if you'd rather not use the terminal |
-| [Git Branches](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=4) | — | Clear explanation of how branches work |
-| [Git Remotes](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=2) | — | Explains how local and remote repos connect |
+| [A brief introduction to Git for beginners](https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=1) by GitHub | 9 min | Clear, beginner-friendly overview of what Git is and why it matters |
+| [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=3) | 14 min | Hands-on walkthrough of the essential commands with real examples |
 
 ---
 
