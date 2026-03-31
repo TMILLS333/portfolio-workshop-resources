@@ -28,11 +28,6 @@ For our purposes, we care about one specific Cloudflare product: **Cloudflare Pa
 
 - [Astro + Cloudflare Pages: A Beginner's Guide](https://dev.to/warish/astro-cloudflare-pages-a-beginners-guide-to-fast-and-easy-deployment-558e) — This is the guide that matches our portfolio project setup. It walks through connecting your GitHub repo to Cloudflare Pages and deploying an Astro site step by step.
 
-### Additional Reading
-
-- [So What Is Cloudflare?](https://www.cloudflare.com/learning/what-is-cloudflare/) — Cloudflare's own plain-language explainer
-- [Getting Started — Cloudflare Pages Docs](https://developers.cloudflare.com/pages/get-started/) — Official step-by-step setup guide
-
 ---
 
 ## How It Works (The Big Picture)
@@ -98,7 +93,7 @@ Before connecting to Cloudflare, make sure your Astro project is ready:
 
 ### After Deploy
 
-Every time you `git push` to `main`, Cloudflare automatically rebuilds and redeploys your site. No extra steps needed.
+Every time you ask Claude to publish your changes live, Cloudflare automatically rebuilds and redeploys your site. No extra steps needed.
 
 ---
 
