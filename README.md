@@ -1,4 +1,4 @@
-# Portfolio Workshop — Pre-Work Resources
+# Portfolio Workshop - Resources
 
 A curated collection of beginner-friendly resources to help designers get comfortable with the tools we'll use in our portfolio project workshop.
 
