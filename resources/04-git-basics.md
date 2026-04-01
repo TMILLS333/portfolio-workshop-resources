@@ -19,7 +19,7 @@
 | Video | Length | Why It's Good |
 |-------|--------|---------------|
 | [A brief introduction to Git for beginners](https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=1) by GitHub | 9 min | Clear, beginner-friendly overview of what Git is and why it matters |
-| [Beginner Git commands you need to know (WITH EXAMPLES)](https://www.youtube.com/watch?v=rE2zRhZdjFU&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f&index=3) | 14 min | Hands-on walkthrough of the essential commands with real examples |
+| [Designers, This Is How GitHub Actually Works](https://www.youtube.com/watch?v=Jcs8LLmQX80) | — | Explains GitHub from a designer's perspective — no dev jargon |
 
 ---
 
